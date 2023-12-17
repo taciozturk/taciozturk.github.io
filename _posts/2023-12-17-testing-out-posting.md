@@ -1,10 +1,10 @@
 ---
 title: Testing Out Jekyll
-date: 2023-12-17 17:57:00 +03:00
+date: 2023-12-17 16:57:00 +02:00
 categories:
-  - Blogging
+- Blogging
 tags:
-  - testing # TAG names should always be lowercase
+- testing
 ---
 
 ## This is my first post
